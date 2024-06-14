@@ -1,0 +1,17 @@
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.DataAccess\bin\Debug\net9.0\BooksStore.DataAccess.deps.json
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.DataAccess\bin\Debug\net9.0\BooksStore.DataAccess.runtimeconfig.json
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.DataAccess\bin\Debug\net9.0\BooksStore.DataAccess.dll
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.DataAccess\bin\Debug\net9.0\BooksStore.DataAccess.pdb
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.DataAccess\bin\Debug\net9.0\BooksStore.Core.dll
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.DataAccess\bin\Debug\net9.0\BooksStore.Core.pdb
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.DataAccess\obj\Debug\net9.0\BooksStore.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.DataAccess\obj\Debug\net9.0\BooksStore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.DataAccess\obj\Debug\net9.0\BooksStore.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.DataAccess\obj\Debug\net9.0\BooksStore.DataAccess.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.DataAccess\obj\Debug\net9.0\BooksStore.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.DataAccess\obj\Debug\net9.0\BooksSto.5DADF84B.Up2Date
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.DataAccess\obj\Debug\net9.0\BooksStore.DataAccess.dll
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.DataAccess\obj\Debug\net9.0\refint\BooksStore.DataAccess.dll
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.DataAccess\obj\Debug\net9.0\BooksStore.DataAccess.pdb
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.DataAccess\obj\Debug\net9.0\BooksStore.DataAccess.genruntimeconfig.cache
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.DataAccess\obj\Debug\net9.0\ref\BooksStore.DataAccess.dll

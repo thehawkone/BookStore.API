@@ -1,0 +1,11 @@
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Core\bin\Debug\net9.0\BooksStore.Core.deps.json
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Core\bin\Debug\net9.0\BooksStore.Core.dll
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Core\bin\Debug\net9.0\BooksStore.Core.pdb
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Core\obj\Debug\net9.0\BooksStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Core\obj\Debug\net9.0\BooksStore.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Core\obj\Debug\net9.0\BooksStore.Core.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Core\obj\Debug\net9.0\BooksStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Core\obj\Debug\net9.0\BooksStore.Core.dll
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Core\obj\Debug\net9.0\refint\BooksStore.Core.dll
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Core\obj\Debug\net9.0\BooksStore.Core.pdb
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Core\obj\Debug\net9.0\ref\BooksStore.Core.dll

@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "BooksStore.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/BooksStore.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BooksStore.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BooksStore.Core/1.0.0": {
+      "type": "project",
+      "path": "../BooksStore.Core/BooksStore.Core.csproj",
+      "msbuildProject": "../BooksStore.Core/BooksStore.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "BooksStore.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Administrator\\RiderProjects\\BooksStore\\BooksStore.Application\\BooksStore.Application.csproj",
+      "projectName": "BooksStore.Application",
+      "projectPath": "C:\\Users\\Administrator\\RiderProjects\\BooksStore\\BooksStore.Application\\BooksStore.Application.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\RiderProjects\\BooksStore\\BooksStore.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "C:\\Users\\Administrator\\RiderProjects\\BooksStore\\BooksStore.Core\\BooksStore.Core.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\RiderProjects\\BooksStore\\BooksStore.Core\\BooksStore.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.4.24267.66/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

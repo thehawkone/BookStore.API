@@ -1,0 +1,15 @@
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Application\bin\Debug\net9.0\BooksStore.Application.deps.json
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Application\bin\Debug\net9.0\BooksStore.Application.dll
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Application\bin\Debug\net9.0\BooksStore.Application.pdb
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Application\bin\Debug\net9.0\BooksStore.Core.dll
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Application\bin\Debug\net9.0\BooksStore.Core.pdb
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Application\obj\Debug\net9.0\BooksStore.Application.csproj.AssemblyReference.cache
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Application\obj\Debug\net9.0\BooksStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Application\obj\Debug\net9.0\BooksStore.Application.AssemblyInfoInputs.cache
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Application\obj\Debug\net9.0\BooksStore.Application.AssemblyInfo.cs
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Application\obj\Debug\net9.0\BooksStore.Application.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Application\obj\Debug\net9.0\BooksSto.7A448EEB.Up2Date
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Application\obj\Debug\net9.0\BooksStore.Application.dll
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Application\obj\Debug\net9.0\refint\BooksStore.Application.dll
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Application\obj\Debug\net9.0\BooksStore.Application.pdb
+C:\Users\Administrator\RiderProjects\BooksStore\BooksStore.Application\obj\Debug\net9.0\ref\BooksStore.Application.dll
